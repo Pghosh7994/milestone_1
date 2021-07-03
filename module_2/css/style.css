@@ -1,0 +1,24 @@
+#card{
+
+     border: 20px solid red;
+     border-radius: 10px;
+     margin: 20px auto;
+     padding: 50px;
+     height: 450px;
+     width: 600px;
+     text-align: center;
+     background-color: burlywood;
+}
+
+h1{
+    color: darkblue;
+}
+
+h3{
+    color: darkred;
+}
+
+.one{
+
+    color: rgb(61, 155, 7);
+}
