@@ -7,6 +7,7 @@ body{
 }
 section{
     display: flex;
+    margin-bottom: 150px;
 }
 .fstdiv{
     width: 50%;
@@ -26,4 +27,9 @@ section{
 #fstbg{
     background-image: url(../images/top-banner.png);
     background-repeat: no-repeat;
+}
+#secbg{
+    background-image: url(../images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: bottom right;
 }
